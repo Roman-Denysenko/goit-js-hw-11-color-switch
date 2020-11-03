@@ -29,5 +29,7 @@ button[disabled] {
   opacity: 0.5;
   &:hover {
     transform: translateY(0px);
+    background-color: white;
+    color: #524f4e;
   }
 }
